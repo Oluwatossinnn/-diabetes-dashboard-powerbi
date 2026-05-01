@@ -14,8 +14,8 @@ This project analyzes diabetes data from 98,000 patients to uncover trends and r
 - Excel
 
 ## 📷 Dashboard Preview
-![Dashboard](NewDiabetes.png)
-![Dashboard](NewDiabetes2.png)
+![Dashboard 1](new-diabetes.png)
+![Dashboard](new-diabetes-2.png)
 
 ## 📁 Files Included
 - Diabetes Dashboard.pbix
